@@ -47,5 +47,9 @@
     "node-superfetch": "^0.2.3",
     "pretty-ms": "^7.0.1",
     "systeminformation": "^5.9.13"
+  },
+  "funding": {
+    "type": "opencollective",
+    "url": "https://opencollective.com/<YOUR-COLLECTIVE-SLUG>"
   }
 }
